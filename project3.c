@@ -1,3 +1,4 @@
+// Cody Bonheimer. My partner was Mario Montes.
 #include <stdio.h>
 #include <math.h>
 
